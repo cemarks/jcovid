@@ -1,0 +1,4 @@
+APP_TOKEN="B8EItU056go5LCdc0tIvfR0je"
+APP_SECRET="gwOFh0w2L2Pgw9da_13QRkImMyd8pNDjY0My"
+KEY_ID="5xlcgqa77n4sctsh59ay2lcyr"
+KEY_SECRET="4yq5sm385tz9uwiqngfrcikxrdgqi5wfon7x72jr7jih3s7t1z"
